@@ -5,9 +5,9 @@
 
 - I’m currently learning **C# and .NET**
 
-- How to reach me **reemrizk244@gmail.com**
+- Contact: **reemrizk244@gmail.com**
 
-- View my [resume](https://docs.google.com/document/d/1YhFKQ2VsOGzpoqxN_e693SBMB7UITj8j/edit?usp=sharing&ouid=111824319649513113910&rtpof=true&sd=true)
+- Learn more about me: [resume](https://docs.google.com/document/d/1YhFKQ2VsOGzpoqxN_e693SBMB7UITj8j/edit?usp=sharing&ouid=111824319649513113910&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
