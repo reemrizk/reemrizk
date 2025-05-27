@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Reem!</h1>
-<h3 align="center">I’m an aspiring developer based in Michigan. I have a great interest in backend development.</h3>
-
-- I’m currently working on [an OOP based bank system](https://github.com/reemrizk/BankSystem.git)
-
-- I’m currently learning **C# and .NET**
+<h3 align="center">I’m a developer based in Michigan. </h3>
 
 - Contact: **reemrizk244@gmail.com**
 
